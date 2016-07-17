@@ -1,7 +1,9 @@
 <?php 
-include_once("mysql/mysql.php"); 
-include_once("func.php");
-include_once("header.php");
+include_once "mysql/mysql.php"; 
+
+include_once 'header.php';
+
+
 ?>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -9,17 +11,18 @@ include_once("header.php");
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Navigation -->
-    <?php include_once("nav.php"); ?>
-
+    <?php include_once("nav.php"); 
+    include 'func.php';
+    ?>
     <!-- Intro Section -->
     <section id="intro" class="intro-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Yes, Pokemon Go Is Probably Down!</h1> <? //TODO: Make this say random things about pokemon go being down. ?>
+
+                    <h1><? echo $funnyword; ?>, <? echo $noun; ?></h1>
                     <p><strong>Wrong?</strong> Report server status by <a href="report.php">clicking here!</a></p>
                     <p><a class="btn btn-default page-scroll" href="#release-dates">Looking for more Pokemon?!</a></p>
-
                 </div>
             </div>
             <div class="col-xs-12">
