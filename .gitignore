@@ -1,0 +1,4 @@
+# Ignoring my local MySQL directory, so you can't snoop my database connection info... hehe. :) 
+/[Mm]ysql/
+# Ditto for any other files that may be needed... 
+/[Ss]ecret/
