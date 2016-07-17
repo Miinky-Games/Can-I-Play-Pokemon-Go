@@ -1,0 +1,5 @@
+<?php
+
+$isDown = false;
+
+?>

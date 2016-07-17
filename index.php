@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Is Pokemon Go Down right now?">
     <meta name="author" content="">
 
-    <title>Scrolling Nav - Start Bootstrap Template</title>
+    <title>Can I Play Pokemon Go - Is Pokemon Go Down Right Now?</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +40,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Can I Play Pokemon Go</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -51,13 +51,13 @@
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#server-status">Server Status</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#release-0dates">Release Dates</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#stats">Pokemon Go Server Stats</a>
                     </li>
                 </ul>
             </div>
@@ -71,42 +71,42 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Scrolling Nav</h1>
-                    <p><strong>Usage Instructions:</strong> Make sure to include the <code>scrolling-nav.js</code>, <code>jquery.easing.min.js</code>, and <code>scrolling-nav.css</code> files. To make a link smooth scroll to another section on the page, give the link the <code>.page-scroll</code> class and set the link target to a corresponding ID on the page.</p>
-                    <a class="btn btn-default page-scroll" href="#about">Click Me to Scroll Down!</a>
+                    <h1>Yes, Pokemon Go Is Probably Down!</h1> <? //TODO: Make this say random things about pokemon go being down. ?>
+                    <p><strong>Wrong?</strong> Report server status by <a href="report.php">clicking here!</a>
+                    <a class="btn btn-default page-scroll" href="#about">Looking for more Pokemon?!</a>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- About Section -->
-    <section id="about" class="about-section">
+    <section id="server-status" class="about-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>About Section</h1>
+                    <h1>Server Status</h1>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Services Section -->
-    <section id="services" class="services-section">
+    <section id="release-dates" class="services-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Services Section</h1>
+                    <h1>Pokemon Release Dates</h1>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="contact-section">
+    <section id="stats" class="contact-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Contact Section</h1>
+                    <h1>Site Information and Stats</h1>
                 </div>
             </div>
         </div>
