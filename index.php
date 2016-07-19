@@ -29,6 +29,11 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+<?php 
+    include_once("analytics.php");
+?>
+
+
 </head>
 
 <body>
@@ -72,6 +77,7 @@
             <div class="col-lg-12 text-center">
                 <h1>¯\_(ツ)_/¯</h1>
                 <p class="lead">Maybe!</p>
+                <p><i>More coming soon! Stay tuned.</i></p>
             </div>
         </div>
         <!-- /.row -->
